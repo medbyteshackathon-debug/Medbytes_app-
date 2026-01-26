@@ -1,7 +1,7 @@
 # Medbytes_app-
 - React code that allows mothers in crisis zone to submit their symptoms to first responders 
 
-const ComponentFunction = function () {
+  const ComponentFunction = function () {
   const React = require('react');
   const { useState } = React;
   const { View, Text, ScrollView, TouchableOpacity } = require('react-native');
@@ -46,7 +46,6 @@ const ComponentFunction = function () {
 
     if(score>=9) return 'CRITICAL';
     if(score>=6) return 'HIGH';
-    //hi 
     if(score>=3) return 'MEDIUM';
     return 'LOW';
   };
