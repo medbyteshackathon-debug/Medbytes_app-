@@ -46,6 +46,7 @@ const ComponentFunction = function () {
 
     if(score>=9) return 'CRITICAL';
     if(score>=6) return 'HIGH';
+    //hi 
     if(score>=3) return 'MEDIUM';
     return 'LOW';
   };
