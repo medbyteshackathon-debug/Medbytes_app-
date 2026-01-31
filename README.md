@@ -13,5 +13,5 @@ Credits: Thunkable
 
 
 To open new version of app: 
-- paste this command into your IDE of choice:
-- ssh -p 2222 vibecode@019c1138-21a9-70f9-9884-38c54547cfc0.vibecodeapp.io
+- click or copy this link into your browser (this should show you a QR code): [](https://www.vibecodeapp.com/s/cml1ieqna002g07mds2av2c1i)
+- Download vibecode on your phone and scan the QR code
