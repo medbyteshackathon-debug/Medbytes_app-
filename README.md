@@ -11,4 +11,7 @@ Our software solution is designed specifically for pregnant women in these areas
 
 Credits: Thunkable 
 
-For new and improved app, open this link: https://www.vibecodeapp.com/s/cml1ieqna002g07mds2av2c1i and scan this qr code 
+
+To open new version of app: 
+- paste this command into your IDE of choice:
+- ssh -p 2222 vibecode@019c1138-21a9-70f9-9884-38c54547cfc0.vibecodeapp.io
