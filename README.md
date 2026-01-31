@@ -13,5 +13,5 @@ Credits: Thunkable
 
 
 To open new version of app: 
-- click or copy this link into your browser (this should show you a QR code): [](https://www.vibecodeapp.com/s/cml1ieqna002g07mds2av2c1i)
+- click or copy this link into your browser (this should show you a QR code): [Aidora_link](https://www.vibecodeapp.com/s/cml1ieqna002g07mds2av2c1i)
 - Download vibecode on your phone and scan the QR code
